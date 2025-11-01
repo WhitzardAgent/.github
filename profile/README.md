@@ -2,7 +2,6 @@
 
 We are a research group supported by Shanghai Innovation Institute and Fudan University. We are working on the security and safety of LLM-powered agentic systems powered by foundation models.
 
-<img src="https://github.com/user-attachments/assets/c28ce94f-88e6-4815-9762-88eea13f2bad" width="100px">
 
 ### Ongoing Projects
 #### Agentic Infra
