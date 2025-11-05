@@ -13,7 +13,7 @@ We are a research group supported by Shanghai Innovation Institute and Fudan Uni
 - [**ThoughtAligner**](https://huggingface.co/fgdrg/Thought-Aligner-7B-v1.0) - **A plug-and-play safety aligner module for your agent's chain-of-thought**
 > Are you worried about your AI deleting your important files without asking for permission? Or it just does something unexpected yet dangerous. ThoughtAligner is here for you.
 
-### Large Reasoning Model Safety
+#### Large Reasoning Model Safety
 - [**ReasoningShield**](https://github.com/WhitzardAgent/ReasoningShield) - A lightweight model for monitoring the content safety of the CoT.
 <a href="https://huggingface.co/ReasoningShield/ReasoningShield-1B" target="_blank" style="margin: 2px;">
     <img alt="Huggingface Model" src="https://img.shields.io/badge/%F0%9F%A4%97%20Model-ReasoningShield%201B-4caf50?color=#5DCB62&logoColor=white " style="display: inline-block; vertical-align: middle;"/>
