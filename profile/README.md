@@ -21,4 +21,4 @@ We are a research group supported by Shanghai Innovation Institute and Fudan Uni
     <img alt="Huggingface Model" src="https://img.shields.io/badge/%F0%9F%A4%97%20Model-ReasoningShield%203B-4caf50?color=4caf50&logoColor=white " style="display: inline-block; vertical-align: middle;"/>
   </a> <a href="https://huggingface.co/datasets/ReasoningShield/ReasoningShield-Dataset" target="_blank" style="margin: 2px;">
     <img alt="Huggingface Dataset" src="https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-ReasoningShield%20Dataset-ff9800?color=ff9800&logoColor=white " style="display: inline-block; vertical-align: middle;"/>
-  </a>
+</a>
